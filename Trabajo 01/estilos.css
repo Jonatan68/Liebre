@@ -1,0 +1,12 @@
+.Centro{
+background-color: azure;
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+p{
+    width: 50%;
+}
